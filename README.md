@@ -5,7 +5,7 @@ Este projeto implementa um algoritmo genético para encontrar o valor de x no in
 O algoritmo utiliza uma população de indivíduos codificados como vetores binários, representando os valores de x, e emprega operações de crossover, mutação e seleção para evoluir a população ao longo de várias gerações, com o objetivo de encontrar a solução ótima."
 
 ## 🛠 Ferramentas Utilizadas
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 
 # Autor
